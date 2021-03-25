@@ -30,10 +30,7 @@ The following vulnerabilities were identified on each target:
   - Directory crawling
   - CVE-2009-2335 (wordpress user ID vulnerability aloowing us to determine the users)
 
-  ![ ](/Images/ScreenShot2021-03-19at11.59.16PM.png)
-
 ### Exploitation
-_TODO: Fill out the details below. Include screenshots where possible._
 
 The Red Team was able to penetrate `Target 1` and retrieve the following confidential data:
 - Target 1
